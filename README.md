@@ -1,5 +1,3 @@
-# tuliu
-图流-看图助手插件
+# tuliu 图流-看图助手插件
 
-
-[插件Wiki](https://github.com/aacc-in/tuliu/wiki)
+[chrome 商店](https://chrome.google.com/webstore/detail/图流-看图助手/gpcdnjdgomhddecjpknmfodkpkgibajh)
