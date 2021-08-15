@@ -8,6 +8,10 @@
 [chrome 商店](https://chrome.google.com/webstore/detail/图流-看图助手/gpcdnjdgomhddecjpknmfodkpkgibajh)
 
 
+## 专属站点 & 详细介绍
+[专属站点](https://gigantic-drop-368.notion.site/Chrome-3cdc9ce11627485fb24edccf7540e70e)
+
+
 ## 规则说明
 
 [规则说明](https://github.com/bluebabes/tuliu/wiki/%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8)
