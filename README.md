@@ -5,9 +5,9 @@
 
 下载地址：
 
-[chrome 商店](https://chrome.google.com/webstore/detail/图流-看图助手/gpcdnjdgomhddecjpknmfodkpkgibajh)
+[Chrome 商店](https://chrome.google.com/webstore/detail/图流-看图助手/gpcdnjdgomhddecjpknmfodkpkgibajh)
 
-[github release](https://github.com/bluebabes/tuliu/releases)
+[手动安装包](https://github.com/bluebabes/tuliu/releases)
 
 [图流专用下载器](https://github.com/bluebabes/tuliu/releases/tag/v1.4.20)
 
