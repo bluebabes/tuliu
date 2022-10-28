@@ -11,7 +11,7 @@
 
 
 ## 专属站点 & 详细介绍
-[专属站点](https://costars.notion.site/chrome-4c5667ef17fb496a876d4f0302e339fd)
+[专属站点](https://github.com/bluebabes/tuliu/wiki/%E7%AB%99%E7%82%B9)
 
 
 ## 规则说明
