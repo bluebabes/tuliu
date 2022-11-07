@@ -12,6 +12,9 @@
 [图流专用下载器](https://github.com/bluebabes/tuliu/releases/tag/v1.4.20)
 
 
+ps: 配合[Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)更佳
+
+
 ## 专属站点 & 详细介绍
 [专属站点](https://github.com/bluebabes/tuliu/wiki/%E7%AB%99%E7%82%B9)
 
