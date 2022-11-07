@@ -5,11 +5,11 @@
 
 下载地址：
 
-[Chrome 商店](https://chrome.google.com/webstore/detail/图流-看图助手/gpcdnjdgomhddecjpknmfodkpkgibajh)
+下载一：[Chrome 商店](https://chrome.google.com/webstore/detail/图流-看图助手/gpcdnjdgomhddecjpknmfodkpkgibajh)
 
-[手动安装包](https://github.com/bluebabes/tuliu/releases)
+下载二：[手动安装包](https://github.com/bluebabes/tuliu/releases) 因无法访问商店
 
-[图流专用下载器](https://github.com/bluebabes/tuliu/releases/tag/v1.4.20)
+[图流专用下载器](https://github.com/bluebabes/tuliu/releases/tag/v1.4.20) 针对图片防盗链下载
 
 
 ps: 配合[Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)更佳
