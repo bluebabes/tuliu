@@ -12,6 +12,15 @@
 [图流专用下载器](https://github.com/bluebabes/tuliu/releases/tag/v1.4.20) 针对图片防盗链下载
 
 
+
+### 手动安装解压包步骤：
+
+1. 下载压缩包，并解压
+2. 浏览器打开 chrome://extensions，把旧版本都删除
+3. 点击打开 “开发者模式”，之后点击按钮“加载已加压的压缩扩展程序”，选择解压缩的文件夹
+
+
+
 ps: 配合[Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)更佳
 
 
