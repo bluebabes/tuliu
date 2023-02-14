@@ -47,3 +47,9 @@ ps: 配合[Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgapp
 ![预览二](https://cdn.jsdelivr.net/gh/zvazlbox/stunning-telegram@dev/aacc/img/byu15x7ycyryy.jpg)
 
 
+
+问题：
+![image](https://user-images.githubusercontent.com/3329261/218618977-37e7d98c-d5cd-4183-9d10-c9860dff6560.png)
+
+浏览器太旧了，升级浏览器
+
