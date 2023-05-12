@@ -33,7 +33,7 @@ ps: 配合[Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgapp
 [规则说明](https://github.com/bluebabes/tuliu/wiki)
 
 ### 如何使用
-安装插件后, 在有图片的页面点击下插件图标或者快捷键 F4
+安装插件后, 在有图片的页面点击下插件图标
 
 ### 支持哪些网站
 支持所有网站, 智能AI解析支持 90%+的图片网站
@@ -46,6 +46,10 @@ ps: 配合[Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgapp
 
 ![预览二](https://cdn.jsdelivr.net/gh/zvazlbox/stunning-telegram@dev/aacc/img/byu15x7ycyryy.jpg)
 
+
+### 更新日志
+
+* v1.5.30 1.增加漫画模式 2.幻灯片在漫画模式下点击打开
 
 
 问题：
