@@ -49,6 +49,7 @@ ps: 配合[Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgapp
 
 ### 更新日志
 
+* v1.6.0  修复幻灯片问题
 * v1.5.30 1.增加漫画模式 2.幻灯片在漫画模式下点击打开
 
 <img width="550" alt="image" src="https://github.com/bluebabes/tuliu/assets/3329261/c861455d-2e5b-44a1-979f-7e9d449f0af0">
